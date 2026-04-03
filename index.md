@@ -1,3 +1,7 @@
 # assignment demo
 
-hi
+<br />
+
+::deliverable{ref="/test.txt"}
+
+asdf
